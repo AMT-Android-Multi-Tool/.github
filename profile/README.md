@@ -1,4 +1,4 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/46a0a7ff-52d4-4e41-9380-5c7d6e615658" /># AMT Android Multi Tool Released For Windows [Updated]
+# AMT Android Multi Tool Released For Windows [Updated]
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/5a4ea479-cf83-4a11-92d2-7e3af29c6ca0" />
 
